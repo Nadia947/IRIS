@@ -1,0 +1,60 @@
+C:\Users\Nek\Documents\Visual Studio 2010\Projects\proiectul IRIS\proiectul IRIS\bin\Debug\Database1.mdf
+C:\Users\Nek\Documents\Visual Studio 2010\Projects\proiectul IRIS\proiectul IRIS\bin\Debug\Database1_log.ldf
+C:\Users\Nek\Documents\Visual Studio 2010\Projects\proiectul IRIS\proiectul IRIS\bin\Debug\proiectul IRIS.exe
+C:\Users\Nek\Documents\Visual Studio 2010\Projects\proiectul IRIS\proiectul IRIS\bin\Debug\proiectul IRIS.pdb
+C:\Users\Nek\Documents\Visual Studio 2010\Projects\proiectul IRIS\proiectul IRIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nek\Documents\Visual Studio 2010\Projects\proiectul IRIS\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nek\Documents\Visual Studio 2010\Projects\proiectul IRIS\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Nek\Documents\Visual Studio 2010\Projects\proiectul IRIS\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nek\Documents\Visual Studio 2010\Projects\proiectul IRIS\proiectul IRIS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nek\Documents\Visual Studio 2010\Projects\proiectul IRIS\proiectul IRIS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nek\Documents\Visual Studio 2010\Projects\proiectul IRIS\proiectul IRIS\obj\x86\Debug\proiectul IRIS.exe
+C:\Users\Nek\Documents\Visual Studio 2010\Projects\proiectul IRIS\proiectul IRIS\obj\x86\Debug\proiectul IRIS.pdb
+C:\Users\Nek\Documents\Visual Studio 2010\Projects\proiectul IRIS\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Nek\Documents\Visual Studio 2010\Projects\proiectul IRIS\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+F:\proiectul IRIS\obj\x86\Debug\proiectul IRIS.exe
+F:\proiectul IRIS\obj\x86\Debug\proiectul IRIS.pdb
+F:\proiectul IRIS\bin\Debug\Database1.mdf
+F:\proiectul IRIS\bin\Debug\Database1_log.ldf
+F:\proiectul IRIS\bin\Debug\proiectul IRIS.exe
+F:\proiectul IRIS\bin\Debug\proiectul IRIS.pdb
+F:\proiectul IRIS\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+F:\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+F:\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+F:\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\proiectul IRIS\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\proiectul IRIS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\proiectul IRIS\obj\x86\Debug\proiectul IRIS.exe
+E:\proiectul IRIS\obj\x86\Debug\proiectul IRIS.pdb
+E:\proiectul IRIS\bin\Debug\Database1.mdf
+E:\proiectul IRIS\bin\Debug\Database1_log.ldf
+E:\proiectul IRIS\bin\Debug\proiectul IRIS.exe
+E:\proiectul IRIS\bin\Debug\proiectul IRIS.pdb
+E:\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+E:\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\proiectul IRIS\obj\x86\Debug\proiectul IRIS.csproj.GenerateResource.Cache
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\obj\x86\Debug\proiectul IRIS.exe
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\obj\x86\Debug\proiectul IRIS.pdb
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\obj\x86\Debug\proiectul IRIS.csproj.GenerateResource.Cache
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\bin\Debug\Database1.mdf
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\bin\Debug\Database1_log.ldf
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\bin\Debug\proiectul IRIS.exe
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\bin\Debug\proiectul IRIS.pdb
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\obj\x86\Debug\proiectul IRIS.csprojResolveAssemblyReference.cache
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\naddi\Desktop\Proiect atestat\proiectul IRIS\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\naddi\Desktop\proiectul IRIS\obj\x86\Debug\proiectul IRIS.exe
+C:\Users\naddi\Desktop\proiectul IRIS\obj\x86\Debug\proiectul IRIS.pdb

@@ -1,0 +1,25 @@
+C:\Users\naddi\Desktop\proiectul IRIS\bin\Debug\net8.0-windows\proiectul IRIS.exe
+C:\Users\naddi\Desktop\proiectul IRIS\bin\Debug\net8.0-windows\Database1.mdf
+C:\Users\naddi\Desktop\proiectul IRIS\bin\Debug\net8.0-windows\Database1_log.ldf
+C:\Users\naddi\Desktop\proiectul IRIS\bin\Debug\net8.0-windows\proiectul IRIS.deps.json
+C:\Users\naddi\Desktop\proiectul IRIS\bin\Debug\net8.0-windows\proiectul IRIS.runtimeconfig.json
+C:\Users\naddi\Desktop\proiectul IRIS\bin\Debug\net8.0-windows\proiectul IRIS.dll
+C:\Users\naddi\Desktop\proiectul IRIS\bin\Debug\net8.0-windows\proiectul IRIS.pdb
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\WindowsFormsApplication1.Form1.resources
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\WindowsFormsApplication1.Form2.resources
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\WindowsFormsApplication1.Form3.resources
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\WindowsFormsApplication1.Form4.resources
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\WindowsFormsApplication1.Form5.resources
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\WindowsFormsApplication1.Form6.resources
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\WindowsFormsApplication1.Form7.resources
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\WindowsFormsApplication1.Form8.resources
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\WindowsFormsApplication1.Form9.resources
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\proiectul IRIS.csproj.GenerateResource.cache
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\proiectul IRIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\proiectul IRIS.csproj.CoreCompileInputs.cache
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\proiectul IRIS.dll
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\refint\proiectul IRIS.dll
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\proiectul IRIS.pdb
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\proiectul IRIS.genruntimeconfig.cache
+C:\Users\naddi\Desktop\proiectul IRIS\obj\Debug\net8.0-windows\ref\proiectul IRIS.dll
